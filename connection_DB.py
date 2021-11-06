@@ -156,7 +156,7 @@ class DB:
             return False
     
 
-    #update the banca and eliminate the diference    
+    #update the banca and delete the diference    
     def preadduser(self, Username, listaprice):
         global result
         conexion = psycopg2.connect(host)
