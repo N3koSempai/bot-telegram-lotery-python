@@ -597,14 +597,3 @@ ganadores del Fijo \n {Fijo} \n\n ganadores del primer parlet: \n {parlet1} \n\n
                 
         
                 
-#filters = ["[","]",","]        
-#db = DB()
-#db.first_start()
-#db.clean_string("""@Felo Parlec 22 33 44 55 66 $1 """)
-#db.deleteall()
-#print(db.predelete("corrido @fermin"))
-#print(db.verificator("@Estrella1974"))
-
-#lista = []
-#m = db.premiun(6223332)
-#print(m)
